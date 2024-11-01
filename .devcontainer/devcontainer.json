@@ -20,7 +20,11 @@
 				"ms-azuretools.vscode-docker",
 				"dbaeumer.vscode-eslint",
 				"pomdtr.secrets",
-				"glaider.glaider-secrets-sniper"
+				"glaider.glaider-secrets-sniper",
+				"GitHub.copilot",
+				"GitHub.codespaces",
+				"github.vscode-github-actions",
+				"GitHub.vscode-codeql"
 			]
 		}
 	},
