@@ -1,0 +1,8 @@
+{
+	"recommendations": [
+		"natqe.reload",
+		"confluentinc.vscode-confluent",
+		"dbaeumer.vscode-eslint",
+		"michelemelluso.gitignore"
+	]
+}
