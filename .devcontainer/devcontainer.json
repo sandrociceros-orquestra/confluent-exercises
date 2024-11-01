@@ -24,7 +24,11 @@
 				"GitHub.copilot",
 				"GitHub.codespaces",
 				"github.vscode-github-actions",
-				"GitHub.vscode-codeql"
+				"GitHub.vscode-codeql",
+				"GitHub.copilot-chat",
+				"GitHub.copilot-workspace",
+				"sirmspencer.vscode-autohide",
+				"amazonwebservices.amazon-q-vscode"
 			]
 		}
 	},
