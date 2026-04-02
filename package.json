@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/sandrociceros-orquestra/confluent-exercises#readme",
   "devDependencies": {
-    "@confluentinc/kafka-javascript": "^0.3.0"
+    "@confluentinc/kafka-javascript": "^1.7.0"
   }
 }
